@@ -85,8 +85,7 @@ export function TestimonialSection6() {
             variant='lead'
             className='mx-auto max-w-3xl !text-gray-500'
           >
-            We&apos;re constantly trying to express ourselves and
-            actualize our dreams. If you have the opportunity to play.
+            Here are a few testimonials from our satisfied customers.
           </Typography>
         </div>
         <div className='grid gap-x-8 gap-y-6 md:grid-cols-2 lg:grid-cols-3'>
