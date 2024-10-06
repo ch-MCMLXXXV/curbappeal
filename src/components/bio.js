@@ -37,16 +37,16 @@ export function ContentSection5() {
             of satisfied customers as evident by his 5.0 review
             ratings.
             <br />
-            <br />
+            {/* <br />
             For a start, it does not automatically follow that a
             record amount of ice will melt this summer. More important
             for determining the size of the annual thaw is the state
             of the weather as the midnight sun approaches and
             temperatures rise. But over the more than 30 years of
             satellite records, scientists have observed a clear
-            pattern of decline, decade-by-decade.
+            pattern of decline, decade-by-decade. */}
           </Typography>
-          <Typography className='text-base !font-normal !text-gray-500'>
+          {/* <Typography className='text-base !font-normal !text-gray-500'>
             The Arctic Ocean freezes every winter and much of the
             sea-ice then thaws every summer, and that process will
             continue whatever happens with climate change. Even if the
@@ -55,7 +55,7 @@ export function ContentSection5() {
             polar dark every winter. And year-by-year, for all kinds
             of natural reasons, there&apos;s huge variety of the state
             of the ice.
-          </Typography>
+          </Typography> */}
         </div>
       </div>
     </section>

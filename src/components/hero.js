@@ -134,15 +134,15 @@ export function HeroSection18() {
           <ul className='items-center hidden gap-8 ml-10 lg:flex'>
             <NavItem>
               <RectangleStackIcon className='w-5 h-5' />
-              Pages
+              Owner
             </NavItem>
             <NavItem>
               <UserCircleIcon className='w-5 h-5' />
-              Account
+              Work
             </NavItem>
             <NavItem>
               <Squares2X2Icon className='w-5 h-5' />
-              Blocks
+              About Us
             </NavItem>
             <NavItem>
               <CommandLineIcon className='w-5 h-5' />
