@@ -92,7 +92,7 @@ const carouselItems = [
   },
   {
     bgImage: '/patio.jpg',
-    subtitle: 'Up to 25% off on all-inclusive packages!',
+    // subtitle: 'Up to 25% off on all-inclusive packages!',
     // title: 'Book Your Dream Holiday',
     // description:
     //   'Make your dream holiday a reality with our hassle-free booking options. Choose from a variety of destinations and accommodations tailored to your preferences.',
@@ -100,7 +100,7 @@ const carouselItems = [
   },
   {
     bgImage: '/firepit.jpg',
-    subtitle: 'Last-Minute Deals',
+    // subtitle: 'Last-Minute Deals',
     // title: 'Escape to Paradise',
     // description:
     //   'Need a quick escape? Check out our last-minute getaway deals and enjoy spontaneous adventures without breaking the bank. Perfect for your next holiday!',
