@@ -84,27 +84,27 @@ function CarouselComponent({ items }) {
 const carouselItems = [
   {
     bgImage: '/frontstairs.jpg',
-    subtitle: 'Save up to 30% on early bookings!',
-    title: 'Explore Exotic Destinations',
-    description:
-      "Embark on an adventure to the world's most beautiful and exotic locations. Discover breathtaking landscapes and vibrant cultures with our exclusive travel packages.",
-    label: 'Plan Your Trip',
+    // subtitle: 'Save up to 30% on early bookings!',
+    // title: 'Explore Exotic Destinations',
+    // description:
+    //   "Embark on an adventure to the world's most beautiful and exotic locations. Discover breathtaking landscapes and vibrant cultures with our exclusive travel packages.",
+    // label: 'Plan Your Trip',
   },
   {
     bgImage: '/patio.jpg',
     subtitle: 'Up to 25% off on all-inclusive packages!',
-    title: 'Book Your Dream Holiday',
-    description:
-      'Make your dream holiday a reality with our hassle-free booking options. Choose from a variety of destinations and accommodations tailored to your preferences.',
-    label: 'Book Now',
+    // title: 'Book Your Dream Holiday',
+    // description:
+    //   'Make your dream holiday a reality with our hassle-free booking options. Choose from a variety of destinations and accommodations tailored to your preferences.',
+    // label: 'Book Now',
   },
   {
     bgImage: '/firepit.jpg',
     subtitle: 'Last-Minute Deals',
-    title: 'Escape to Paradise',
-    description:
-      'Need a quick escape? Check out our last-minute getaway deals and enjoy spontaneous adventures without breaking the bank. Perfect for your next holiday!',
-    label: 'Find Deals',
+    // title: 'Escape to Paradise',
+    // description:
+    //   'Need a quick escape? Check out our last-minute getaway deals and enjoy spontaneous adventures without breaking the bank. Perfect for your next holiday!',
+    // label: 'Find Deals',
   },
 ];
 
