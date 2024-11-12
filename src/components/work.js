@@ -59,7 +59,7 @@ export function ContentSection4() {
         color='blue-gray'
         className='!text-3xl lg:!text-4xl'
       >
-        Building Something Great
+        What We Offer
       </Typography>
       <Typography
         variant='lead'
