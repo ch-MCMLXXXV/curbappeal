@@ -28,31 +28,31 @@ export function ContentSection7() {
       </div>
       <div className='grid grid-cols-2 gap-6 mb-6 md:grid-cols-12'>
         <div className='col-span-2 h-[140px] sm:h-[150px] md:col-span-4'>
-          <Image
+          {/* <Image
             src='/Front steps and walkway-Before.jpg'
             width={200}
             height={150}
             alt='photos'
             className='object-cover object-center w-full h-full rounded-lg shadow-md'
-          />
+          /> */}
         </div>
         <div className='col-span-1 h-[100px] sm:h-[150px] md:col-span-3'>
-          <Image
+          {/* <Image
             src='/Retainer Wall-Before.jpg'
             width={200}
             height={150}
             alt='photos'
             className='object-cover object-center w-full h-full rounded-lg shadow-md'
-          />
+          /> */}
         </div>
         <div className='col-span-1 h-[100px] sm:h-[150px] md:col-span-5'>
-          <Image
+          {/* <Image
             src='/firepit.jpg'
             width={200}
             height={150}
             alt='photos'
             className='object-cover w-full h-full rounded-lg shadow-md'
-          />
+          /> */}
         </div>
       </div>
       <div className='grid grid-cols-2 gap-6 md:grid-cols-12'>

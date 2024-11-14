@@ -52,16 +52,16 @@ const testimonials = [
   },
   {
     feedback:
-      'The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.',
-    client: 'Mary Joshiash',
-    title: 'MARKETING @ APPLE INC.',
+      'As a class A Contractor working in the construction industry for decades, rarely have I seen  such a tight knit and professional organization as Curb Appeal. The Owner is first class with an expedient response time and his crews are some of the most hardworking I have been around. After a multitude of completed projects, the only feedback we gave received is how great the job is. I appreciate working with Donald and look forward to many more years to come.',
+    client: 'Capt. Dan Hobby',
+    title: 'President/Owner Acelutions',
     img: 'https://www.material-tailwind.com/image/avatar4.jpg',
   },
   {
     feedback:
-      'Do not go where the path may lead, go instead where there is no path and leave a trail.',
-    client: 'Marcell Glock',
-    title: 'CFO @ APPLE INC..',
+      'Curb Appeal brick masons get 5 stars. I recently had four window lintels replaced. My house has unusual brick and unusual mortar. The repair perfectly matched the bricks and mortar. The masons and helpers were a pleasure to have around the house-courteous and pleasant. The boss, Donald Wilson, was knowledgeable, readily available, and eager to please. I would not hesitate to use Curb Appeal again!',
+    client: 'William Oelrich',
+    // title: 'CFO @ APPLE INC..',
     img: 'https://www.material-tailwind.com/image/avatar8.svg',
   },
 ];

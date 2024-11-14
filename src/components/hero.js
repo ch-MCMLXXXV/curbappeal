@@ -46,7 +46,7 @@ function CarouselComponent({ items }) {
           className='relative w-full h-full min-h-screen bg-center bg-no-repeat bg-cover'
           style={{ backgroundImage: `url(${item.bgImage})` }}
         >
-          <div className='absolute inset-0 w-full h-full bg-black/60' />
+          <div className='absolute inset-0 w-full h-full bg-black/30' />
           <div
             className={`absolute inset-0 flex items-center justify-center p-4`}
           >
