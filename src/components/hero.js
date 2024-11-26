@@ -18,6 +18,8 @@ import {
   UserCircleIcon,
   CommandLineIcon,
   Squares2X2Icon,
+  Square3Stack3DIcon,
+  UserGroupIcon,
 } from '@heroicons/react/24/solid';
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline';
 
@@ -134,11 +136,11 @@ export function HeroSection18() {
           </Typography>
           <ul className='items-center hidden gap-8 ml-10 lg:flex'>
             <NavItem href='#bio'>
-              <RectangleStackIcon className='w-5 h-5' />
+              <UserCircleIcon className='w-5 h-5' />
               Bio
             </NavItem>
             <NavItem href='#work'>
-              <UserCircleIcon className='w-5 h-5' />
+              <RectangleStackIcon className='w-5 h-5' />
               Services
             </NavItem>
             <NavItem>
@@ -146,8 +148,8 @@ export function HeroSection18() {
               About Us
             </NavItem>
             <NavItem>
-              <CommandLineIcon className='w-5 h-5' />
-              Contact
+              <UserGroupIcon className='w-5 h-5' />
+              Testimonials
             </NavItem>
           </ul>
           {/* <div className='items-center hidden gap-4 lg:flex'>
@@ -173,11 +175,11 @@ export function HeroSection18() {
           <div className='container px-6 py-5 mx-auto mt-4 bg-white rounded-lg'>
             <ul className='flex flex-col gap-4 text-gray-900'>
               <NavItem href='#bio'>
-                <RectangleStackIcon className='w-5 h-5' />
+                <UserCircleIcon className='w-5 h-5' />
                 Bio
               </NavItem>
               <NavItem href='#work'>
-                <UserCircleIcon className='w-5 h-5' />
+                <RectangleStackIcon className='w-5 h-5' />
                 Services
               </NavItem>
               <NavItem>
@@ -185,7 +187,7 @@ export function HeroSection18() {
                 About Us
               </NavItem>
               <NavItem href='#testimonials'>
-                <CommandLineIcon className='w-5 h-5' />
+                <UserGroupIcon className='w-5 h-5' />
                 Testimonials
               </NavItem>
             </ul>

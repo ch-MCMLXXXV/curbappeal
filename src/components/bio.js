@@ -10,8 +10,8 @@ export function ContentSection5() {
         <div>
           <Image
             src='/bio.jpeg'
-            width={200}
-            height={200}
+            width={700}
+            height={700}
             alt='team work'
             className='mb-6 h-full lg:h-[370px] w-full shadow-lg rounded-xl object-cover object-center'
           />

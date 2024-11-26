@@ -64,6 +64,14 @@ const testimonials = [
     // title: 'CFO @ APPLE INC..',
     img: 'https://www.material-tailwind.com/image/avatar8.svg',
   },
+  {
+    feedback:
+      'We have enjoyed a long-standing business relationship with Curb Appeal through McKown Pressure Washing, and it has been a fantastic experience. Over the years, we’ve collaborated on numerous projects, and their professionalism and commitment to quality have always stood out. Their team consistently delivers exceptional results, ensuring our projects look their best. We appreciate their reliability and attention to detail, making them a trusted partner in our endeavors. We look forward to many more successful projects together!',
+    client: 'Stephanie Cathey',
+    title:
+      'Business Office Adminstrator, McKown Pressure Wash, Painting & Contracting',
+    img: 'https://www.material-tailwind.com/image/avatar8.svg',
+  },
 ];
 
 export function TestimonialSection6() {
