@@ -132,13 +132,13 @@ export function HeroSection18() {
             Curb Appeal
           </Typography>
           <ul className='items-center hidden gap-8 ml-10 lg:flex'>
-            <NavItem>
+            <NavItem href='#bio'>
               <RectangleStackIcon className='w-5 h-5' />
-              Owner
+              Bio
             </NavItem>
-            <NavItem>
+            <NavItem href='#work'>
               <UserCircleIcon className='w-5 h-5' />
-              Work
+              Services
             </NavItem>
             <NavItem>
               <Squares2X2Icon className='w-5 h-5' />
@@ -146,7 +146,7 @@ export function HeroSection18() {
             </NavItem>
             <NavItem>
               <CommandLineIcon className='w-5 h-5' />
-              Docs
+              Contact
             </NavItem>
           </ul>
           {/* <div className='items-center hidden gap-4 lg:flex'>
@@ -171,21 +171,21 @@ export function HeroSection18() {
         <Collapse open={open}>
           <div className='container px-6 py-5 mx-auto mt-4 bg-white rounded-lg'>
             <ul className='flex flex-col gap-4 text-gray-900'>
-              <NavItem>
+              <NavItem href='#bio'>
                 <RectangleStackIcon className='w-5 h-5' />
-                Pages
+                Bio
               </NavItem>
-              <NavItem>
+              <NavItem href='#work'>
                 <UserCircleIcon className='w-5 h-5' />
-                Account
+                Services
               </NavItem>
               <NavItem>
                 <Squares2X2Icon className='w-5 h-5' />
-                Blocks
+                About Us
               </NavItem>
-              <NavItem>
+              <NavItem href='#testimonials'>
                 <CommandLineIcon className='w-5 h-5' />
-                Docs
+                Testimonials
               </NavItem>
             </ul>
             {/* <div className='flex items-center gap-4 mt-6'>
