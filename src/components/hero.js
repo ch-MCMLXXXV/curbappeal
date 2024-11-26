@@ -84,27 +84,28 @@ function CarouselComponent({ items }) {
 const carouselItems = [
   {
     bgImage: '/frontstairs.jpg',
-    // subtitle: 'Save up to 30% on early bookings!',
-    // title: 'Explore Exotic Destinations',
-    // description:
-    //   "Embark on an adventure to the world's most beautiful and exotic locations. Discover breathtaking landscapes and vibrant cultures with our exclusive travel packages.",
-    // label: 'Plan Your Trip',
+    subtitle: 'Make a Lasting Impression',
+    title:
+      'First impressions start at the curb. Let us help you make them unforgettable.',
+    description:
+      'From landscaping to hardscaping, we specialize in creating stunning entrances that stand out.',
+    label: 'Discover Our Services',
   },
   {
     bgImage: '/patio.jpg',
-    // subtitle: 'Up to 25% off on all-inclusive packages!',
-    // title: 'Book Your Dream Holiday',
-    // description:
-    //   'Make your dream holiday a reality with our hassle-free booking options. Choose from a variety of destinations and accommodations tailored to your preferences.',
-    // label: 'Book Now',
+    subtitle: 'Excellence in Every Detail',
+    title: 'Transforming outdoor spaces, one project at a time',
+    description:
+      'Our team brings expertise and passion to every design, ensuring your vision becomes a reality.',
+    label: 'Explore Our Projects',
   },
   {
     bgImage: '/firepit.jpg',
-    // subtitle: 'Last-Minute Deals',
-    // title: 'Escape to Paradise',
-    // description:
-    //   'Need a quick escape? Check out our last-minute getaway deals and enjoy spontaneous adventures without breaking the bank. Perfect for your next holiday!',
-    // label: 'Find Deals',
+    subtitle: 'Redefine Your Curb Appeal',
+    title: "Your home's beauty begins where the pavement ends.",
+    description:
+      'Let us enhance your outdoor spaces with taiored solutions that reflect your unique style',
+    label: 'Contact Us Today',
   },
 ];
 
