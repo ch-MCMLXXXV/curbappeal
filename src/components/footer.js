@@ -6,9 +6,9 @@ const links = [
   {
     title: 'Contact Us',
     items: [
-      'curbappeal@gmail.com',
-      '123 Builders Way, New York, NY 10001',
-      '(123)-456-7890',
+      'curbappeal57@cox.net',
+      'Chesapeake, VA',
+      '(757)-681-1550',
       //   'Blog',
     ],
   },
@@ -37,9 +37,9 @@ export function Footer4() {
             <Typography variant='h6' className='mb-6 uppercase'>
               Curb Appeal
             </Typography>
-            <Typography className='mb-4 w-10/12 !text-base font-normal !text-gray-500 md:w-5/12 '>
+            {/* <Typography className='mb-4 w-10/12 !text-base font-normal !text-gray-500 md:w-5/12 '>
               Next Level Masonary
-            </Typography>
+            </Typography> */}
             <div className='flex gap-2'>
               <a href='#buttons-with-link'>
                 <IconButton variant='text' size='sm'>

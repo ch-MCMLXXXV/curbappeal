@@ -41,7 +41,7 @@ const contents = [
   },
   {
     img: '/Paver Installation-2.JPG',
-    title: 'Concrete Installation',
+    title: 'Paver Installation',
     desc: 'We specialize in reliable and long-lasting concrete installation services, tailored for driveways, sidewalks, foundations, and commercial spaces.',
   },
   {

@@ -9,13 +9,12 @@ export function ContentSection5() {
       <div className='grid items-center gap-10 mx-auto my-auto max-w-7xl place-items-center lg:grid-cols-2'>
         <div>
           <Image
-            src='/Screened Porch.jpg'
+            src='/bio.jpeg'
             width={200}
             height={200}
             alt='team work'
             className='mb-6 h-full lg:h-[370px] w-full shadow-lg rounded-xl object-cover object-center'
           />
-          /
         </div>
         <div className='lg:max-w-md'>
           <Typography

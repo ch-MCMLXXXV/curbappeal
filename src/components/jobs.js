@@ -28,46 +28,46 @@ export function ContentSection7() {
       </div>
       <div className='grid grid-cols-2 gap-6 mb-6 md:grid-cols-12'>
         <div className='col-span-2 h-[140px] sm:h-[150px] md:col-span-4'>
-          {/* <Image
-            src='/Front steps and walkway-Before.jpg'
+          <Image
+            src='/grillclose.jpg'
             width={200}
             height={150}
             alt='photos'
             className='object-cover object-center w-full h-full rounded-lg shadow-md'
-          /> */}
+          />
         </div>
         <div className='col-span-1 h-[100px] sm:h-[150px] md:col-span-3'>
-          {/* <Image
-            src='/Retainer Wall-Before.jpg'
+          <Image
+            src='/grillfar.jpg'
             width={200}
             height={150}
             alt='photos'
             className='object-cover object-center w-full h-full rounded-lg shadow-md'
-          /> */}
+          />
         </div>
         <div className='col-span-1 h-[100px] sm:h-[150px] md:col-span-5'>
-          {/* <Image
-            src='/firepit.jpg'
-            width={200}
-            height={150}
-            alt='photos'
-            className='object-cover w-full h-full rounded-lg shadow-md'
-          /> */}
-        </div>
-      </div>
-      <div className='grid grid-cols-2 gap-6 md:grid-cols-12'>
-        <div className='col-span-2 h-[140px] sm:h-[150px] md:col-span-3'>
           <Image
-            src='/patio.jpg'
+            src='/firepit.jpg'
             width={200}
             height={150}
             alt='photos'
             className='object-cover w-full h-full rounded-lg shadow-md'
           />
         </div>
+      </div>
+      <div className='grid grid-cols-2 gap-6 md:grid-cols-12'>
+        <div className='col-span-2 h-[140px] sm:h-[150px] md:col-span-3'>
+          <Image
+            src='/drivewaybefore.jpeg'
+            width={200}
+            height={300}
+            alt='photos'
+            className='object-cover w-full h-full rounded-lg shadow-md'
+          />
+        </div>
         <div className='col-span-1 h-[100px] sm:h-[150px] md:col-span-5'>
           <Image
-            src='/Retainer Wall After.jpg'
+            src='/drivewayafter.jpeg'
             width={200}
             height={150}
             alt='photos'
@@ -76,7 +76,7 @@ export function ContentSection7() {
         </div>
         <div className='col-span-1 h-[100px] sm:h-[150px] md:col-span-4'>
           <Image
-            src='/Retainer Wall with Glass Fence.jpg'
+            src='/image.jpeg'
             width={200}
             height={150}
             alt='photos'
