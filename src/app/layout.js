@@ -13,8 +13,18 @@ const geistMono = localFont({
 });
 
 export const metadata = {
-  title: 'Curb Appeal',
-  description: 'Landing page for Curb Appeal',
+  title: 'Curb Appeal |  Masonry,Concrete & More',
+  description:
+    'Discover professional curb appeal services for your home or business. We specialize in concrete, masonry, asphalt and more.',
+  keywords: [
+    'curb appeal',
+    'masonry',
+    'concrete',
+    'stone work',
+    'home improvement',
+    'construction',
+    'asphalt',
+  ],
 };
 
 export default function RootLayout({ children }) {

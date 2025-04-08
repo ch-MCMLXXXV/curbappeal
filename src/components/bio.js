@@ -13,7 +13,7 @@ export function ContentSection5() {
             width={700}
             height={700}
             alt='team work'
-            className='mb-6 h-full lg:h-[370px] w-full shadow-lg rounded-xl object-cover object-center'
+            className='object-cover object-center w-full h-full mb-6 shadow-lg lg:h-full rounded-xl'
           />
         </div>
         <div className='lg:max-w-md'>
