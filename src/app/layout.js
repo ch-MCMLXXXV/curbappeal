@@ -13,7 +13,7 @@ const geistMono = localFont({
 });
 
 export const metadata = {
-  title: 'Curb Appeal |  Masonry,Concrete & More',
+  title: 'Curb Appeal | Masonry,Concrete & More in Chesapeake, VA',
   description:
     'Discover professional curb appeal services for your home or business. We specialize in concrete, masonry, asphalt and more.',
   keywords: [
